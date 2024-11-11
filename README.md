@@ -8,7 +8,7 @@ I am an engineering student at **Centrale Méditerranée**. Passionate about **d
 - **Centralien Engineer** – An interdisciplinary approach covering various engineering fields, project management, and data science.
 
 ### Certifications
-- **Centrale Lille** – *Project Management* (expected completion in late 2024)
+- **Centrale Lille** – *Project Management* 
 - **IBM** – *Data Science Professional Certificate* (Coursera, expected completion in November 2024)
 
 ### Courses Taken
