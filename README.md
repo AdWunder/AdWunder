@@ -9,7 +9,7 @@ I am an engineering student at **Centrale Méditerranée**. Passionate about **d
 
 ### Certifications
 - **Centrale Lille** – *Project Management* 
-- **IBM** – *Data Science Professional Certificate* (Coursera, expected completion in November 2024)
+- **IBM** – *Data Science Professional Certificate* 
 
 ### Courses Taken
 #### 2024-2025 Academic Year
